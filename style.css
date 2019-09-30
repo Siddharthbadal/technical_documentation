@@ -19,7 +19,7 @@ nav{
   margin-left: 300px;
   overflow: hidden;
   max-width: 100%;
-  margin-right:20px;
+  
 }
 
 .nav-link{
@@ -70,7 +70,8 @@ ul{
     max-width:100%;
     width: 100%;
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 40px;
+    
   }
   section header{
     text-align: center;
