@@ -5,6 +5,7 @@ main{
 
 main{
   float: left; 
+  
 }
 
 nav{
@@ -18,6 +19,7 @@ nav{
   margin-left: 300px;
   overflow: hidden;
   max-width: 100%;
+  margin-right:20px;
 }
 
 .nav-link{
